@@ -1,3 +1,9 @@
 .LOG
 
-14:26 23/09/2019
+14:28 23/09/2019
+1º - Criar o git
+git init
+2º - Adicionar os aruivos ao git
+git add .
+3º Criar o repositório no Github
+Processo automático
