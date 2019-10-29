@@ -1,0 +1,9 @@
+body {
+	margin:0;
+}
+.exemplo {
+	width:500px;
+	height:200px;
+	background:blue;
+	background:linear-gradient(40deg, pink, blue);
+}

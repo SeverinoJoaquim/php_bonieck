@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	display: flex;
+	justify-content: center;
+	height: 120px;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+	width: 990;
+	/*background-color: #ff0000;*/
+}
+
+.logo{
+	/*background-color: #00FF00;*/
+	display: flex;
+	align-items: center;
+}
+
+.menu{
+
+}
